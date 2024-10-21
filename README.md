@@ -21,9 +21,9 @@ Entrenamiento/Tumor/: Carpeta con imágenes de radiografías con tumores.
 
 
 ## Autores
-Álvaro de la Cruz 
-Maximiliano Fiorentino
-Pablo Matías Pardo
-Eliel Bloemer
-Joel Akiyoshi
-Alejo Goltzman
+- Álvaro de la Cruz 
+- Maximiliano Fiorentino
+- Pablo Matías Pardo
+- Eliel Bloemer
+- Joel Akiyoshi
+- Alejo Goltzman
